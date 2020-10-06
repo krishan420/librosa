@@ -12,11 +12,11 @@ A python package for music and audio analysis.
 [![Coverage Status](https://coveralls.io/repos/librosa/librosa/badge.svg?branch=main)](https://coveralls.io/r/librosa/librosa?branch=main)
 
 
-Documentation
+Documentation required in librosa
 -------------
 See https://librosa.org/doc/ for a complete reference manual and introductory tutorials.
 
-Installation
+Installation Module of Librosa
 ------------
 
 The latest stable release is available on PyPI, and you can install it by saying
